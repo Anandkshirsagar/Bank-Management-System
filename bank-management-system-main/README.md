@@ -43,4 +43,16 @@ Runs on: http://localhost:3000
 | DELETE | /api/account/delete/{id}   | Delete account    |
 
 ## Developer
-Shridhar Borule
+Anand Kshirsagar
+
+# Bank Management System
+
+## Application Preview
+
+![Home Page](images/home.png)
+
+![Dashboard](images/dashboard.png)
+
+# Bank Management System
+
+![Output](images/home.png)
